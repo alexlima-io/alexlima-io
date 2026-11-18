@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**alexlima-io/alexlima-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Alex Lima 👋
 
-Here are some ideas to get you started:
+Sou desenvolvedor focado na criação de **aplicativos web modernos, interfaces intuitivas e soluções digitais** pensadas para resolver problemas reais de forma simples e elegante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 O que eu desenvolvo
+- **Web Apps & PWAs:** Aplicativos leves, responsivos e instaláveis direto pelo navegador.
+- **Soluções para Negócios:** Catálogos digitais, fluxos de pedidos integrados ao WhatsApp e painéis de gestão.
+- **Design de Interface (UI/UX):** Experiência visual limpa, moderna e focada no uso pelo celular.
+
+#### 🛠️ Tecnologias e Ferramentas
+`HTML5` · `CSS3` · `JavaScript` · `Git` · `GitHub` · `Netlify`
+
+#### 📌 Projeto em Destaque
+- **Pri Sabores:** Aplicativo web (PWA) para confeitaria artesanal com vitrine interativa, cálculo automático de promoções, checkout integrado ao WhatsApp e painel administrativo de estoque e financeiro.
+
+---
+💡 *Sempre explorando novas tecnologias e construindo projetos úteis.*
